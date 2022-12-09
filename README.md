@@ -35,7 +35,7 @@ Software Developer and Alto Saxophist
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google)
 
 ## Misc.
-<p>React Chinese document contributor<a href="https://link-url-here.org](https://github.com/reactjs/zh-hans.reactjs.org/pull/141">(#141)</a></p>
+<p>React Chinese document contributor<a href="https://github.com/reactjs/zh-hans.reactjs.org/pull/141">(#141)</a></p>
 <p>MDN document contributor<a href="https://github.com/mdn/translated-content/pull/6573">(#6573)</a></p>
 
 <p align="left">
