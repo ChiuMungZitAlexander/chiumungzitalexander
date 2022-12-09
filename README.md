@@ -11,7 +11,7 @@ Software Developer and Alto Saxophist
 ## GitHub Stats
 
 <div align="center">
-  <img height="200 alt="fav langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiumungzitalexander&hide=html,css,vue,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img height="200 alt="fav langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiumungzitalexander&hide=html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   <img height="200 alt="stats" src="https://github-readme-stats.vercel.app/api?username=chiumungzitalexander&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
 
