@@ -1,6 +1,6 @@
 ## Who Am I
 
-Software Developer and Alto Saxophist
+Web3 developer(TS, Rust, Go, Move), alto saxophist and music arranger
 
 <div align="center">
   <img height="200 alt="fav langs" src="https://user-images.githubusercontent.com/22234622/206348023-d5388bb9-a6bc-4071-8a5c-0926bf9897c3.png" style="margin-right:20px" />
