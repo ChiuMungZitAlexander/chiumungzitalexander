@@ -2,11 +2,6 @@
 
 Web3 developer(TS, Rust, Go, Move), alto saxophist and music arranger
 
-<div align="center">
-  <img height="200 alt="fav langs" src="https://user-images.githubusercontent.com/22234622/206348023-d5388bb9-a6bc-4071-8a5c-0926bf9897c3.png" style="margin-right:20px" />
-  <img height="200 alt="fav langs" src="https://user-images.githubusercontent.com/22234622/206348029-e7c06ec6-8bb5-4e51-a810-c1975da53a5e.png" />
-</div>
-
 
 ## GitHub Stats
 
@@ -35,6 +30,7 @@ Web3 developer(TS, Rust, Go, Move), alto saxophist and music arranger
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google)
 
 ## Misc.
+<p>MSc in Computer Science, HKBU</p>
 <p>React Chinese document contributor</p>
 <p>MDN document contributor</p>
 
