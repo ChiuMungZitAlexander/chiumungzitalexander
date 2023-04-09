@@ -1,6 +1,6 @@
 ## Who Am I
 
-Web3 developer(TS, Rust, Go, Move), alto saxophist and music arranger
+Web3 developer(TS/Go/Rust), alto saxophist and music arranger
 
 
 ## GitHub Stats
