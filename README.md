@@ -10,6 +10,9 @@ Web3 developer(TS/Go/Rust), alto saxophist and music arranger
   <img height="200 alt="stats" src="https://github-readme-stats.vercel.app/api?username=chiumungzitalexander&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Tech Stacks
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1b477a?style=flat-square&logo=typescript)
