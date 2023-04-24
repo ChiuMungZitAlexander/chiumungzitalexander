@@ -13,7 +13,7 @@ Web3 developer(TS/Rust), alto saxophist and music arranger
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 October 2022 - To: 21 April 2023
+From: 22 October 2022 - To: 22 April 2023
 
 Total Time: 330 hrs 27 mins
 
