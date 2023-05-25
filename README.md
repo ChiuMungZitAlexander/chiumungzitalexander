@@ -13,16 +13,16 @@ Web3 developer(TS/Rust), alto saxophist and music arranger
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2023 - To: 23 May 2023
+From: 17 May 2023 - To: 24 May 2023
 
-Total Time: 12 hrs 44 mins
+Total Time: 10 hrs 1 min
 
-TypeScript   11 hrs 3 mins   █████████████████████▓░░░   86.74 %
-JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-JavaScript   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-MDX          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+TypeScript   8 hrs 50 mins   ██████████████████████░░░   88.18 %
+JSON         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+MDX          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
