@@ -1,6 +1,6 @@
 ## Who Am I
 
-Web3 developer(TS/Rust), alto saxophist and music arranger
+Web3 developer(TS/Rust), React Chinese document contributor, MDN document contributor, alto saxophist and music arranger
 
 
 ## GitHub Stats
@@ -46,11 +46,6 @@ XML          17 mins         ▒░░░░░░░░░░░░░░░░
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-eb5f07?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google)
-
-## Misc.
-<p>MSc in Computer Science, HKBU</p>
-<p>React Chinese document contributor</p>
-<p>MDN document contributor</p>
 
 <p align="left">
   <img
