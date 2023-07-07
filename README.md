@@ -5,7 +5,7 @@ Web3 developer(TS/Rust), React Chinese document contributor, MDN document contri
 
 ## GitHub Stats
 
-<div>
+<div style="display:flex">
   <img height="200 alt="fav langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiumungzitalexander&exclude_repo=Amway-Thailand,Hybris-UI-UX-Core-Developmen&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&hide=html,css,scss,mdx&hide_progress=true" />
   <img height="200 alt="stats" src="https://github-readme-stats.vercel.app/api?username=chiumungzitalexander&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
