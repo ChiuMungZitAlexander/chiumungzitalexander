@@ -13,16 +13,16 @@ Web3 developer(TS/Rust/Solidity), React Chinese document contributor, MDN docume
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2023 - To: 23 July 2023
+From: 17 July 2023 - To: 24 July 2023
 
-Total Time: 40 hrs 26 mins
+Total Time: 40 hrs 8 mins
 
-TypeScript   21 hrs 45 mins  █████████████▒░░░░░░░░░░░   53.80 %
-Markdown     9 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   24.64 %
-JSON         4 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-Solidity     2 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+TypeScript   25 hrs 33 mins  ████████████████░░░░░░░░░   63.66 %
+Markdown     9 hrs 57 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
+JSON         2 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Solidity     30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 CSS          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-TSConfig     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
