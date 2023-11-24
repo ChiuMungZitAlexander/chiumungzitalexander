@@ -17,16 +17,16 @@ Alto saxophist and music arranger
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2023 - To: 22 November 2023
+From: 16 November 2023 - To: 23 November 2023
 
-Total Time: 25 hrs 4 mins
+Total Time: 21 hrs 50 mins
 
-TypeScript   21 hrs 34 mins  █████████████████████▓░░░   86.04 %
-Other        1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-JSON         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-TSConfig     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   19 hrs 1 min    █████████████████████▓░░░   87.09 %
+Other        1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+JSON         1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+TSConfig     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Prisma       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
