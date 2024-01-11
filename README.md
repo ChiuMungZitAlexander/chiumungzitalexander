@@ -17,16 +17,16 @@ Alto saxophist and music arranger
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2024 - To: 09 January 2024
+From: 03 January 2024 - To: 10 January 2024
 
-Total Time: 23 hrs 35 mins
+Total Time: 26 hrs 58 mins
 
-TypeScript   19 hrs 51 mins  █████████████████████░░░░   84.17 %
-JSON         2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Other        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-HTML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-JavaScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+TypeScript   22 hrs 31 mins  █████████████████████░░░░   83.50 %
+JSON         2 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Other        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+HTML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+TSConfig     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
