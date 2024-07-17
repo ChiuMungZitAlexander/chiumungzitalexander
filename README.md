@@ -17,16 +17,15 @@ Alto saxophist and music arranger
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2024 - To: 15 July 2024
+From: 09 July 2024 - To: 16 July 2024
 
-Total Time: 21 hrs 18 mins
+Total Time: 22 hrs 19 mins
 
-TypeScript   12 hrs 5 mins   ██████████████▒░░░░░░░░░░   56.70 %
-Prisma       5 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   24.56 %
-JSON         3 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
-Bash         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   10 hrs          ███████████▒░░░░░░░░░░░░░   44.78 %
+Prisma       6 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
+JSON         5 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
+Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
