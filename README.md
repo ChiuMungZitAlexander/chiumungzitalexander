@@ -41,6 +41,7 @@ Docker       19 mins         ▒░░░░░░░░░░░░░░░░
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-898989?style=flat-square&logo=webassembly)
 ![React](https://img.shields.io/badge/-React-4eadc7?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-33a06f?style=flat-square&logo=Vue.js)
+![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-f8fafc?style=flat-square&logo=tailwindcss)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-4eadc7?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
 ![NestJS](https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=NestJS)
@@ -48,6 +49,7 @@ Docker       19 mins         ▒░░░░░░░░░░░░░░░░
 ![Gatsby](https://img.shields.io/badge/-Gatsby.js-7026b9?style=flat-square&logo=Gatsby)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![Supabase](https://img.shields.io/badge/-supabase-242424?style=flat-square&logo=supabase)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-eb5f07?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google)
 
