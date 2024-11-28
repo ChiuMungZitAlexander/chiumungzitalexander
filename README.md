@@ -1,6 +1,6 @@
 ## Who Am I
 
-Web3 developer(TS/Rust/Solidity)\
+Web3 developer(Typescript/Rust/Solidity)\
 React Chinese document contributor\
 MDN document contributor\
 Alto saxophist and music arranger
